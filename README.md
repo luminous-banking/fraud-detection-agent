@@ -1,10 +1,5 @@
-# AI Buffet
+# Fraud Detection Agent
 
-A veritable buffet of different AI models.
+This repository contains experimental code and is intended for research/educational purposes only. It is not intended for use in production environments or for handling sensitive data.
 
-Meant to showcase the capabilities of our ai-bom tool by providing several examples of AI usages.
-
-So far, the repo contains:
-
-1. A simple chatbot app using the `anthropic` libary. Showcases our detection of model usage, even when the string literal is not passed directly.
-2. An audio application used to generate melodies. Showcases our ability to detect transitive AI library dependencies via SCA.
+We make no guarantees regarding the security or stability of this code. It may contain severe security vulnerabilities. By using this software, you acknowledge that you are solely responsible for any consequences, including potential security exploits.
